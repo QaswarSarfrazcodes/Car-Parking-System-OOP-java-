@@ -1,0 +1,16 @@
+# Byte-compiled / binary files
+/bin/
+*.class
+
+# Log files
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# User data / local runtime state (optional: tracked or ignored depending on clean repo)
+# state_data.txt
+# users_data.txt
+# vehicles_data.txt
+# parking_tickets.txt
